@@ -3,5 +3,4 @@ Fillit is a project that let you discover and/or familiarize yourself with a rec
 If you want to try it out
 type "make"
 then run command ./fillit test.txt
-Enjoy
 First group project in Hive, I did the project with Tiia Laukkanen (totallytiia in github)
